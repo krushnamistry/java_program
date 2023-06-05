@@ -1,5 +1,4 @@
 //Create an abstract class called Animal with the following properties and methods:
-//
 //Properties:
 //name (String)
 //age (int)
